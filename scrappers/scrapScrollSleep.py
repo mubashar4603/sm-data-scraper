@@ -28,7 +28,7 @@ def scroll_to_bottom():
         if new_height == last_height:
             break
         last_height = new_height
-        p
+
 
 # Execute the scroll function to load all content
 scroll_to_bottom()

@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read("/home/mubashar/PycharmProjects/SeleniumScrapper/Configurations/config.ini")
+config.read("/home/mubashir/PycharmProjects/SeleniumScrapper/Configurations/config.ini")
 
 
 class ReadConfig():
